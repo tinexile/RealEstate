@@ -6,7 +6,7 @@ const Section = () => {
       <main>
         <section  className="black-grad bg-[#2B2B2B] text-white">
            {/* Hero Text Section */}
-          <div className="flex flex-col py-20 px-5 gap-2 ">
+          <div className="flex flex-col pt-10 px-5 gap-2 ">
             <h1 className="font-medium text-xl ">
               We Provide <br /> Architectural design <br /> and Construction{" "}
             </h1>
